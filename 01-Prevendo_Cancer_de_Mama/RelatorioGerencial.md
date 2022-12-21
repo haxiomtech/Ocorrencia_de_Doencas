@@ -57,6 +57,6 @@ Para testar o algoritmo foram utilizados 100 registros.
 
 ### Taxa de acerto do Modelo: 98% (acertou 98 em 100)
 
-
+Execução e Análise : A. Damasceno
 
 
