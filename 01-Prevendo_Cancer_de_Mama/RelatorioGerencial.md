@@ -1,9 +1,13 @@
 
 # Previsão de Cancer de Mama com Base em Histórico de Pacientes
 
+### Parte dos primeiros dados e colunas
+
+![image](https://user-images.githubusercontent.com/119424591/208986052-7fb85114-55aa-4476-a136-a6a95ae83aeb.png)
+
 ### Análise Exploratória
 
-Dados da planilha
+#### Quantidade de diagnósticos
 
 ![image](https://user-images.githubusercontent.com/119424591/208977261-53243480-f526-4c5c-b70f-3f4d03a86f25.png)
 
